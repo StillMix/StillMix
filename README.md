@@ -1,4 +1,4 @@
-Header
+[![Header](https://github.com/StillMix/StillMix/blob/main/assets/stars.jpg)]
 
 About me
 
