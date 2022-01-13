@@ -1,8 +1,10 @@
-[![Header](https://github.com/StillMix/StillMix/blob/main/assets/stars1.jpg)(https://vk.com/stillmixplay)]
+![Header](https://github.com/StillMix/StillMix/blob/main/assets/stars1.jpg)
 
 About me
 
 Languages and Tools
+
+
 ![React](https://img.shields.io/badge/-React-090909?style=for-the-badge&logo=react&logoColor=47C5FB)
 ![Html](https://img.shields.io/badge/-Html-090909?style=for-the-badge&logo=html&logoColor=097CDB)
 ![MongoDb](https://img.shields.io/badge/-MongoDb-090909?style=for-the-badge&logo=mongodb&logoColor=F8C52C)
